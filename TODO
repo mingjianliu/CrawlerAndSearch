@@ -1,0 +1,6 @@
+1. split book controller and crawler controller
+2. use multiple API server to parallel process. 
+3. Zookeeper/Consul support for servers
+4. Docker + Cloud
+5. Full snapshot update
+6. Use EnableScheduling and TaskScheduler/Trigger to perodically sync
